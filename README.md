@@ -2,6 +2,8 @@
 
 A modern and visually appealing calculator built using **HTML**, **CSS**, and **JavaScript**. This project features a beautiful **Glassmorphism UI design**, creating a frosted-glass effect with smooth transparency, blur effects, and clean styling. The calculator is capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division with an intuitive and responsive user interface.
 
+This calculator supports chained calculations (running total calculations). After each operation, the result becomes the starting value for the next calculation. For example, 200 + 200 = 400, then 400 + 200 = 600, and so on. This mimics the behavior of many standard calculators, where each result can be used immediately in subsequent operations without re-entering the entire expression.
+
 ## Features
 
 * Elegant Glassmorphism design
